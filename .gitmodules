@@ -1,3 +1,10 @@
 [submodule "src/python-multi-repo-2"]
 	path = src/python-multi-repo-2
 	url = ../python-multi-repo-2.git
+[submodule "src/hello-world"]
+	path = src/hello-world
+	url = ../hello-world
+[submodule "src/hello-world-again"]
+	path = src/hello-world-again
+	url = ../hello-world
+	branch = test_hook
